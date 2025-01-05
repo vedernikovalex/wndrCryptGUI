@@ -1,5 +1,6 @@
 # wndrCrypt
-## To start project, just open executable file.
+## To start project, just open executable file in /bin/Release/net8.0-windows/.
+## Or download release
 
 Supported only on Windows (Windows forms lol)
 Build using .NET8
