@@ -1,6 +1,6 @@
 # wndrCrypt
 ## To start project, just open executable file in /bin/Release/net8.0-windows/.
-## Or download release
+## Or download latest release https://github.com/vedernikovalex/wndrCryptGUI/releases
 
 Supported only on Windows (Windows forms lol)
 Build using .NET8
