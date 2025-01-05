@@ -1,6 +1,6 @@
 ﻿namespace WinFormsApp1
 {
-    partial class Form1
+    partial class Homepage
     {
         /// <summary>
         ///  Required designer variable.
@@ -19,5 +19,8 @@
             }
             base.Dispose(disposing);
         }
+        private Button button1;
+        private Button button2;
+        private PictureBox pictureBox1;
     }
 }
